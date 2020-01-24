@@ -1,0 +1,20 @@
+{
+  "name": "puppeteer-trial",
+  "version": "1.0.0",
+  "description": "a trial on puppeteer's ability to scrape",
+  "main": "example.js",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+
+  },
+  "scripts": {
+    "dev": "nodemon node .",
+    "build": "asdasdas ./dist",
+    "prod": "node ./dist/"
+  },
+  "author": "Orix Au Yeung",
+  "license": "ISC"
+}
